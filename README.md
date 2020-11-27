@@ -1,3 +1,4 @@
+<meta name="referrer" content="no-referrer">
 <p align="center">
     <img src="https://i0.hdslb.com/bfs/album/1ba8228cc208a12ac17f73a160081a0918ab7d14.png" width="250" height="200">
 </p>
